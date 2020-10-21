@@ -1,0 +1,83 @@
+body{ 
+        text-align: center;
+        background-color:#0fa36b;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:1.5em;
+        }
+
+    h1  {
+        font-family: cursive, 'Sansita Swashed';
+            }
+    p  {
+        font-size: 1.2em;
+            }
+    .destaque{
+        font-weight: bolder;
+            }
+    #habilidades-h{
+        font-size:2em;
+        font-style:cursive;
+    }
+    .SoftSkills{
+        font-size:1.5em;
+        list-style:square;
+        margin-left:1.2%;
+
+            }
+    .Lógica{
+        font-size:1.3em;
+        margin-left:1%;
+        list-style: square;
+            }
+    .Others{
+        font-size:1.1em;
+        margin-left:1%;
+            }
+    .fonte-nome{
+        font-family:Cursive, 'Sansita Swashed';
+        font-size:1.35em;
+        color:A1E8CC;
+        font-weight: bolder;
+            }
+    #imagem-lucas{
+        border-radius: 100%;
+        text-align: center;      
+        float:left;     
+        margin-left:2%;
+        padding:1%;
+        background-color:F2F5FF;
+        }
+    .cor-fonte-azulbb{
+       color:A1E8CC;
+            }
+    .cor-fonte-amarela{
+        color:EDD83D;
+            }
+    
+    .cor-fonte-branca{
+        color:F2F5FF;
+    }
+    .cor-fonte-marrom{
+        color:3D1308; 
+    /*.cor-fonte-verde{
+        color:#0fa36b;
+    }*/
+    }
+    #foto-descrição{
+        border:2%;
+        padding: 35px;
+        margin: 35px;
+    }
+   #primeira-parte-site{
+        padding: 35px;
+        margin: 35px;   
+    }
+    #terceira-parte-site{
+        padding: 35px;
+        margin: 35px; 
+    }
+    #footer{
+        color:F2F5FF; 
+        font-size:1.4em;
+        font-weight:bold;
+    }
